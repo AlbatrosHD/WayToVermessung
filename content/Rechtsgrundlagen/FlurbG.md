@@ -6,7 +6,7 @@ draft:
 tags:
 ---
 Quelle:
-- [Geodateninfrastruktur Deutschland](https://www.gdi-de.org/)
+- [Flurbereinigungsgesetz (FlurbG)](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html)
 ## Einführung
 
 

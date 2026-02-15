@@ -1,0 +1,10 @@
+#ImmoWertV 
+#LiegVermErlass
+#NVermG
+#LiegKatErlass
+#KOVerm
+#NBauO
+#BauGB
+#GDI
+#AdV
+#VTR

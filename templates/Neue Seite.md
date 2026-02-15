@@ -5,8 +5,6 @@ description:
 draft:
 tags:
 ---
-# {{title}}
-
 Quelle:
 - 
 ## Einführung
