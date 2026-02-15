@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content",
   "attachmentFolderPath": "content/MediaFiles",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showLineNumber": false
 }
