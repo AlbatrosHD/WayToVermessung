@@ -42,7 +42,8 @@ Beispiel:
 Beispiel:
 
 1. Berechnung des An- und Abschlussrichtungswinkel
-	- $t_{F1, A}=arctan(\frac{10380,33-10134,11}{16440,27-16360,27})=80,00040gon$ $t_{E, F2}=arctan(\frac{11146,45-11183,210}{16154,25-16086,25})=84,99998$  
+	- $t_{F1, A}=arctan(\frac{10380,33-10134,11}{16440,27-16360,27})=80,00040gon$ $t_{E, F2}=arctan(\frac{11146,45-11183,210}{16154,25-16086,25})=84,99998$
+
 2. Ermittlung des Winkelabschlussfehlers
 	- $W=84,99998+4*200gon-(80,00040+804,98)=0,01958gon$ 
 
@@ -54,6 +55,7 @@ Beispiel:
 	- $t_{A,1}=80,00040gon + 200gon + (189,9950gon + 0,00489gon) - 400gon=70,0003 gon$
 	- $t_{1,2}=70,0003gon + 200gon + (252,9950gon + 0,00489gon)-400gon=123,0002gon$
 	- $t_{2,E}=123,0002gon + 200gon + (235,9950gon + 0,00489gon)-400gon=159,0001gon$
+
 5. Berechnung der vorläufigen Koordinatenunterschiede
 	- $\begin{array}{c} \Delta y' = sin(70,0003)*240m=213,84m \\ \Delta x' = cos(70,0003)*240m=108,96m \end{array}$ 
 	- $\begin{array}{c} \Delta y' = sin(123,0002gon)*360m=336,76m \\ \Delta x' = cos(123,0002gon)*360m=-127,25m \end{array}$
