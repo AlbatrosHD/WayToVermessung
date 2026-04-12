@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"bf727b81f5e8dfe1","type":"text","text":"## Andere Behördliche Institutionen","x":-820,"y":-299,"width":552,"height":59},
+		{"id":"1ecec2ce96860ca8","type":"text","text":"#### ML \nMinisterium für Ernährung und Verbraucherschutz","x":-240,"y":-170,"width":220,"height":120},
+		{"id":"05f8c0d136963b02","type":"text","text":"#### LGLN\nLandesamt für Geoinformationen und Landesvermessung NDS.","x":-240,"y":120,"width":840,"height":100},
+		{"id":"11c6b954d8ff4ca6","type":"text","text":"### Bund\n- Bundesanstalt für Geowissenschaften\n- Bundesamt für Katographie und Geodäsie\n- Bundesamt für Seeschifffahrt und Hydrographie\n- Geoinformationsdienst der Bundeswehr\n- Wasser- und Schifffahrtsverwaltung (WSV)  ","x":-742,"y":-200,"width":397,"height":201},
+		{"id":"d1aaa3c2d17454c3","type":"text","text":"### Land\n- NDS. Landesforst\n- Straßenbehörde\n- ...","x":-742,"y":38,"width":397,"height":182},
+		{"id":"0c88f03df295301f","type":"text","text":"#### ARL\nAmt für Regionale Landesentwicklung","x":-240,"y":-20,"width":187,"height":116},
+		{"id":"43e07f685c9f4c05","type":"text","text":"##### Landesvermessung","x":-240,"y":245,"width":327,"height":60},
+		{"id":"f6598ec35d38b656","type":"text","text":"#### MI\nNDS. Ministerium für Inneres und Sport","x":15,"y":-170,"width":145,"height":120},
+		{"id":"b7431b4d773fbc11","type":"text","text":"## Behördliche Institutionen","x":-240,"y":-299,"width":840,"height":59},
+		{"id":"299f99d4bf3c0d32","type":"text","text":"##### Zentrale Aufgaben","x":88,"y":245,"width":302,"height":58},
+		{"id":"0fd1e45f261b03e6","type":"text","text":"##### RD (9)\nRegionaldirektionen","x":390,"y":247,"width":210,"height":133},
+		{"id":"d99b0498cb6ec152","type":"text","text":"### Land Niedersachsen","x":-240,"y":-240,"width":840,"height":55},
+		{"id":"a88d139702ee86a5","type":"text","text":"## Private Intitutionen","x":640,"y":-299,"width":380,"height":59},
+		{"id":"5eb3cb77fe61af33","type":"text","text":"ÖBVI","x":640,"y":-140,"width":250,"height":60},
+		{"id":"403b66bbc35df290","type":"text","text":"- Bauunternehmen\n- Deutsch Bahn\n- Ingineur Büros\n- Vermessungsbüros\n- Harzwasserwerke\n- Energieversorger\n- ...","x":890,"y":-140,"width":282,"height":282},
+		{"id":"17615bb8647f7350","type":"text","text":"In der Aufgabe vorgegeben:\n##### _Bearbeiten Sie die Aufgabe auf dem angehängten Arbeitsblatt. Folgende Begriffe sind einzusetzen:_\n\nARL    -    Bauunternehmen (z.B. STRABAG)    -   Bundesanstalt für Geowissenschaften    -   Bundesamt für Kartographie und Geodäsie (BKG)    -   Bundesamt für Seeschifffahrt und Hydrographie (BSH)    -   Deutsche Bahn (DB)    -   Energieversorgungsunternehmen    -   Geoinformationsdienst der Bundeswehr    -   Harzwasserwerke (HWW)    -   Ingenieurbüros    -   Katasterämter (53)    -   Landesamt für Geoinformation und Landesvermessung Niedersachsen (LGLN)    -   Landesvermessung und Geobasisinformation (Landesbetrieb)    -   MI    -   ML    -   Nds. Landesforsten    -   Öffentlich bestellte Vermessungsingenieure (ÖbVI‘s)    -   Regionaldirektionen (9)    -   Stadtvermessungsamt (Geoinformation)    -   Straßenbaubehörde    -   Vermessungsbüros    -   Wasser- und Schifffahrtsverwaltung (WSV)    -   Zentrale Aufgaben  \n\n##### _Beachten Sie, dass in Quadrate ohne Punkte immer ein Begriff und in Quadraten mit Unterteilung durch Punkte zu jedem Punkt ein Begriff zugeordnet wird. (23 Begriffe sind zuzuordnen.)_ _Nutzen Sie bei Bedarf das Internet, Ihr Fachbuch (1.2 Organisation des Vermessungswesens). und/oder fragen Sie MitarbeiterInnen in Ihrem Betrieb._","x":-320,"y":500,"width":960,"height":468},
+		{"id":"b880df74b849a7f7","type":"text","text":"### Kommune\n- Stadtvermessungsamt","x":-742,"y":247,"width":397,"height":173},
+		{"id":"f459e7dfdd25df65","type":"text","text":"###### Katasterämter (39)","x":390,"y":420,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"03cb7c7628a5ea28","fromNode":"bf727b81f5e8dfe1","fromSide":"bottom","toNode":"11c6b954d8ff4ca6","toSide":"top","toEnd":"none"},
+		{"id":"b452ac004a46b88d","fromNode":"11c6b954d8ff4ca6","fromSide":"bottom","toNode":"d1aaa3c2d17454c3","toSide":"top"},
+		{"id":"862e4e2a0986504c","fromNode":"d1aaa3c2d17454c3","fromSide":"bottom","toNode":"b880df74b849a7f7","toSide":"top"},
+		{"id":"459d0764262ff4ef","fromNode":"f6598ec35d38b656","fromSide":"bottom","toNode":"05f8c0d136963b02","toSide":"top","label":"Dienst-/Fachaufsicht"},
+		{"id":"98620fc57fc4d8b9","fromNode":"f6598ec35d38b656","fromSide":"right","toNode":"5eb3cb77fe61af33","toSide":"left"},
+		{"id":"eda0fa14e16dc1cb","fromNode":"11c6b954d8ff4ca6","fromSide":"bottom","toNode":"d1aaa3c2d17454c3","toSide":"top"}
+	]
+}

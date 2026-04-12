@@ -104,7 +104,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
@@ -229,7 +229,24 @@
   },
   "active": "21d96c53e372682c",
   "lastOpenFiles": [
+    "docs/index.md",
+    "Unbenannt 2.canvas",
+    "content/12.04.2026.md",
+    "Unbenannt 1.canvas",
+    "content/LF-Vermessung/LF1/Lernfeld 1 - Betriebe der Geoinformationstechnologie vorstellen.md",
+    "docs/configuration.md",
+    "Unbenannt.canvas",
+    "content/LF-Vermessung/LF1/Rechtsgrundlagen.md",
+    "content/Vermessungsverfahren/Laserscanning.md",
+    "content/VTR/1. Vermessungstechnisches Rechnen.md",
+    "content/VTR/Polygonzugberechnung.md",
+    "content/VTR/Transformation.md",
+    "content/Vermessungsverfahren/Trigonometrische Höhenbestimmung.md",
     "content/LF-Vermessung/Einführung in die Lernfelder.md",
+    "content/LF-Vermessung/LF3/Lernfeld 3 - Geodaten erfassen und bearbeiten.md",
+    "content/LF-Vermessung/LF2/Lernfeld 2 - Geodaten unterscheiden und bewerten.md",
+    "content/LF-Vermessung/LF1/Vermessungsgeschichte.md",
+    "content/LF-Vermessung/LF1/Aufbau des Vermessungswesens in Niedersachsen.canvas",
     "content/LF-Vermessung/LF13/Lernfeld 13 - Bau-, Bauwerks- und Industrievermessungen durchführen.md",
     "content/LF-Vermessung/LF12/Lernfeld 12 - Bodenordnungen bearbeiten und Wertermittlungen begleiten.md",
     "content/LF-Vermessung/LF11/Lernfeld 11 - Planungsunterlagen erstellen.md",
@@ -240,9 +257,6 @@
     "content/LF-Vermessung/LF6/Lernfeld 6 - Objekte geometrisch erfassen und visualisieren.md",
     "content/LF-Vermessung/LF5/Lernfeld 5 - Referenzpunkte bestimmen.md",
     "content/LF-Vermessung/LF4/Lernfeld 4 - Geodaten in Geoinformationssystemen verwenden und präsentieren.md",
-    "content/LF-Vermessung/LF3/Lernfeld 3 - Geodaten erfassen und bearbeiten.md",
-    "content/LF-Vermessung/LF2/Lernfeld 2 - Geodaten unterscheiden und bewerten.md",
-    "content/LF-Vermessung/LF1/Lernfeld 1 - Betriebe der Geoinformationstechnologie vorstellen.md",
     "content/Vermessungsverfahren/Photogrammetrie.md",
     "content/LF-Vermessung/LF13",
     "content/LF-Vermessung/LF12",
@@ -255,12 +269,6 @@
     "content/LF-Vermessung/LF5",
     "content/LF-Vermessung/LF4",
     "content/Vermessungsverfahren/Polar.md",
-    "content/Vermessungsverfahren/Laserscanning.md",
-    "content/VTR/Transformation.md",
-    "content/VTR/Polygonzugberechnung.md",
-    "docs/setting up your GitHub repository.md",
-    "docs/migrating from Quartz 3.md",
-    "docs/index.md",
     "public/index-og-image.webp",
     "public/Vermessungsverfahren/Trigonometrische-Höhenbestimmung-og-image.webp",
     "public/Vermessungsverfahren/Satellitengestützte-Messverfahren/GNSS-og-image.webp",
@@ -270,10 +278,6 @@
     "public/Vermessungsverfahren/Photogrammetrie-og-image.webp",
     "public/Vermessungsverfahren/Laserscanning-og-image.webp",
     "public/Vermessungsverfahren/Lagemessungen/Othogonal-og-image.webp",
-    "public/Vermessungsverfahren/Lagemessungen/Fluchten-und-Verlängern-og-image.webp",
-    "content/VTR/1. Vermessungstechnisches Rechnen.md",
-    "content/Vermessungsschriften/Fortfuehrungsrisse.md",
-    "content/Untitled.md",
-    "content/Vermessungsverfahren/Satellitengestützte Messverfahren/GNSS.md"
+    "public/Vermessungsverfahren/Lagemessungen/Fluchten-und-Verlängern-og-image.webp"
   ]
 }

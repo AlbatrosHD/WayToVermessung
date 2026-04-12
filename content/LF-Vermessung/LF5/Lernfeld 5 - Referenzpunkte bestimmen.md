@@ -6,3 +6,11 @@
 - **Genauigkeitskontrolle:** Durchführung von Kontrollen und Bewertung der erreichten Genauigkeiten.
 - **Dokumentation:** Nachweis der Ergebnisse nach entsprechenden Richtlinien.
 - **Sicherheit:** Beachtung von Unfallverhütungsvorschriften und ökologischen Belangen.
+
+> [!info] Das ist ein Callout
+> Lolol
+
+
+> [!info] Definition
+> Das ist eine Definition 
+
