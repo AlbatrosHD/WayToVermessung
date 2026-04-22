@@ -3,5 +3,6 @@
   "newFileFolderPath": "content",
   "attachmentFolderPath": "content/MediaFiles",
   "showUnsupportedFiles": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newLinkFormat": "relative"
 }
