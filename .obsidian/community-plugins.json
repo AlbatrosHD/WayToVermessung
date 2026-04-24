@@ -1,5 +1,6 @@
 [
   "obsidian-leaflet-plugin",
   "text-extractor",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-spaced-repetition"
 ]

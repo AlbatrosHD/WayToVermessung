@@ -13,10 +13,9 @@ Die Geodäsie, als Wissenschaft von der Ausmessung und Abbildung der Erdoberflä
 
 Winkeleinheiten ermöglichen die exakte Beschreibung von Richtungen, Neigungen und Positionen im Raum. Sie sind essenziell für die Durchführung von Vermessungsarbeiten, die Erstellung von Karten sowie die Navigation. In der Geodäsie werden vor allem die folgenden Winkeleinheiten verwendet:
 
-- **Grad (°):** Die gebräuchlichste Einheit im Alltag und in vielen technischen Anwendungen. Ein Vollkreis umfasst 360 Grad. 
+- **Grad (°):** Die gebräuchlichste Einheit im Alltag und in vielen technischen Anwendungen, sie können unter anderem in #Sexagesimale angegeben werden. Ein Vollkreis umfasst 360 Grad. 
 	- **Minuten ('):** Ein Grad besteht aus 60 Minuten. Bsp. $6'=0,1°*60 Minuten$
-	- **Sekunden (''):** Eine Minute besteht aus 60 Sekunden. Bsp. $6''=0,1'*60 Sekunden$
-	Diese Unterteilung ermöglicht eine besonders präzise Angabe von Winkeln, die in der Navigation und Astronomie von großer Bedeutung ist.
+	- **Sekunden (''):** Eine Minute besteht aus 60 Sekunden. Bsp. $6''=0,1'*60 Sekunden$	
 - **Gon (gon):** Auch als Neugrad bezeichnet, unterteilt den Vollkreis in 400 Gon. Diese Einheit wird insbesondere in der europäischen Vermessungstechnik bevorzugt, da sie eine dezimale Unterteilung ermöglicht und somit Berechnungen vereinfacht.
 - **Radiant (rad):** Die natürliche Winkeleinheit in der Mathematik und Physik, die auf dem Verhältnis von Bogenlänge zum Radius eines Kreises basiert. Ein Vollkreis entspricht 2\pi Radiant.
 - **Strich (‰):** Eine Einheit, die vor allem im militärischen Bereich verwendet wird. Ein Vollkreis umfasst 6400 Strich.

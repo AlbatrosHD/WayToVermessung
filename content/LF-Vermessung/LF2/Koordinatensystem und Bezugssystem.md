@@ -87,21 +87,54 @@ Quelle: https://de.wikipedia.org/wiki/Quasigeoid
 
 ### Geographische (Sphäre) Koordinaten
 ![[../../MediaFiles/20260415_132533810.jpg|300]]
-- Schnittebenen durch Kugel ergeben Kreise
-- Großkreis: durch Mittelpunkt
-- Kleinkreis: nicht durch Mittelpunkt
 - Äquator = einziger Breitenkreis als Großkreis
 - Längenkreise schneiden sich in Nord- und Südpol
 - Meridian = kürzeste Verbindung zwischen Polen
+Das Koordinatensystem wird durch zwei feste Referenzpunkte definiert:
+- **Äquator** (0° Breite): Die größte gedachte Querlinie, die die Erde in Nord- und Südhälfte teilt. Er dient als Nulllinie für die geographische Breite.
+- **Nullmeridian (Primärmeridian)** (0° Länge): Ein von Pol zu Pol verlaufender Großkreis, der durch die Sternwarte in **Greenwich** (London) läuft. Von dort ausgehend werden alle Längengrade gemessen.
+Das Bezugssystem ist also **durch die Erdpole und die Sternwarte von Greenwich** vollständig definiert.
+#### Geographische Breite (φ)
+Die **geographische Breite** ist der Winkel auf dem Meridian vom Äquator bis zum gesuchten Punkt P.
+- Sie wird von **0° am Äquator** bis **90° an den Polen** gemessen.
+- Es gibt **90 Breitengrade nördlich** ("nördlicher Breite", N) und **90 Breitengrade südlich** ("südlicher Breite", S) des Äquators.    
+- Die Breitenkreise verlaufen **parallel zum Äquator** (sog. Parallel- oder Kleinkreise) und werden kleiner, je näher man den Polen kommt.
+Ein praktischer Trick zur Bestimmung: Die geographische Breite eines Ortes entspricht der sog. **Polhöhe** — dem Winkel zwischen dem Horizont und dem Himmelspol (annähernd der Polarstern), messbar mit einem Theodolit.
+#### Geographische Länge (λ)
+Die **geographische Länge** ist der Winkel zwischen der Ebene des Nullmeridians (Greenwich) und der Ebene des Ortsmeridians von Punkt P.
+- Es gibt **180 Längengrade östlich** ("östlicher Länge", E/O) und **180 Längengrade westlich** ("westlicher Länge", W) des Nullmeridians.
+- Die Länge lässt sich aus dem **Ortszeit-Unterschied** zwischen Greenwich und dem betreffenden Ort ableiten: Eine Zeitsekunde entspricht genau **einem Bogen von 15"** (Bogensekunden).
+- Die Meridiane sind Großkreise, die von Pol zu Pol verlaufen. Das Wort „Meridian" bedeutet „Mittagslinie" — alle Orte auf demselben Meridian haben zur gleichen Zeit Sonnenhöchststand (Mittag).
 
-- geografische Breite: Winkel zur Äquatorebene
-- geografische Länge: Winkel zum Nullmeridian (Greenwich)
-Gitternetz entsteht durch Breiten- und Längenkreise
+#### Darstellung und Schreibweise der Koordinaten
+Koordinaten werden üblicherweise in zwei Schreibweisen angegeben:
+**1. #Sexagesimale Schreibweise (Grad, Minuten, Sekunden):**
+φ=52° 31′ 12′′  N, λ=10° 03′ 36′′  E
+Ein Grad wird in 60 Minuten ('), jede Minute in 60 Sekunden ('') unterteilt. Dies ist die klassische, aus der Astronomie stammende Darstellung und in GPS-Geräten sowie Karten weit verbreitet.
+**2. Dezimalgrad-Schreibweise:**
+φ=52,5200° N,  λ=10,0600° E
+Hier werden Minuten und Sekunden als Dezimalanteil ausgedrückt, was für digitale Berechnungen besser geeignet ist.
+
+Die Reihenfolge ist stets: **Breite (φ) zuerst, dann Länge (λ)** — also erst die Nord/Süd-Angabe, dann Ost/West. Dein Standort in Bienenbüttel wäre beispielsweise etwa **53,18° N, 10,41° E**.
+
+---
 ### Geodätische (Ellipsoid) Koordinaten
 ![[../../MediaFiles/20260415_132541385.jpg|300]]
-- geodätische Breite: Winkel zwischen Ellipsoidnormalen und Äquatorebene
-- geodätische Länge: Winkel zum Nullmeridian
+#### Die drei geodätischen Koordinaten
 
+Ein Punkt P auf oder über der Erdoberfläche wird durch genau drei Größen beschrieben:
+#### Geodätische Breite (B)
+Der Winkel zwischen der **Ellipsoidnormalen** (dem senkrechten Lot auf dem Ellipsoid im Punkt P) und der Äquatorebene.
+- Wertebereich: **0° bis 90° N** (Nord) und **0° bis 90° S** (Süd)
+- Symbol: **B** (bei geodätischen Koordinaten), im Gegensatz zu φ bei sphärischen
+#### Geodätische Länge (L)
+Der Winkel zwischen der Meridianebene von Greenwich (Nullmeridian) und der Meridianebene des Punktes P — identisch zur geographischen Länge.
+- Wertebereich: **0° bis 180° O** (Ost) und **0° bis 180° W** (West)
+- Symbol: **L**
+#### Ellipsoidische Höhe (h)
+Der Abstand des Punktes P von der mathematischen Ellipsoidoberfläche, gemessen **entlang der Ellipsoidnormalen**.
+- Positiv nach außen (über dem Ellipsoid), negativ nach innen
+- Symbol: **h** oder **h_ell**
 ### Gauß-Krüger Koordinaten
 ![[../../MediaFiles/IMG_20260415_133350446.jpg|300]]
 
@@ -141,3 +174,5 @@ UTM-Koordinaten:
 längentreu an Durchdringungskreisen
 
 ![[../../MediaFiles/IMG_20260415_133930902.jpg|300]]
+
+

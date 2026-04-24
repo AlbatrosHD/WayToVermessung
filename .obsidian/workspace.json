@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/LF-Vermessung/LF4/Lernfeld 4 - Geodaten in Geoinformationssystemen verwenden und präsentieren.md",
+                "file": "content/Flashcard test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lernfeld 4 - Geodaten in Geoinformationssystemen verwenden und präsentieren"
+              "title": "Flashcard test"
+            }
+          },
+          {
+            "id": "0e214e8be7a265cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Abfragen zum Lernen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abfragen zum Lernen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 340.5
   },
   "right": {
     "id": "9d5b175bc1f0bd73",
@@ -164,8 +179,19 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "78c3dcabe26d0572",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Anstehende Notizen zur Wiederholung"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,18 +207,39 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-spaced-repetition:Lernkarten wiederholen": false
     }
   },
-  "active": "21d96c53e372682c",
+  "active": "0e214e8be7a265cc",
   "lastOpenFiles": [
-    "content/LF-Vermessung/LF3/Lernfeld 3 - Geodaten erfassen und bearbeiten.md",
-    "content/LF-Vermessung/LF2/Flächen und Volumen.md",
-    "content/LF-Vermessung/LF2/Koordinatensystem und Bezugssystem.md",
-    "content/LF-Vermessung/LF2/Kartendarstellung.md",
-    "content/LF-Vermessung/LF2/Lernfeld 2 - Geodaten unterscheiden und bewerten.md",
+    "content/Vermessungsinstrumente/Nivelliergerät.md",
+    "content/Abfragen zum Lernen.md",
+    "content/Flashcard test.md",
+    "content/Rechtsgrundlagen/Niedersachsen/NVermG.md",
+    "content/Rechtsgrundlagen/Niedersachsen/NÖbVIG.md",
+    "content/Rechtsgrundlagen/Niedersachsen/NGDIG.md",
+    "content/Rechtsgrundlagen/Niedersachsen/NBauO.md",
+    "content/Rechtsgrundlagen/Niedersachsen/LiegVermErlass.md",
+    "content/Rechtsgrundlagen/Niedersachsen/LiegKatErlass.md",
+    "content/Rechtsgrundlagen/Niedersachsen/KOVerm.md",
+    "content/Vermessungsinstrumente/Basislatte.md",
+    "content/Vermessungsinstrumente/1. Vermessungsinstrumente.md",
+    "content/Vermessungsschriften/Fortfuehrungsrisse.md",
+    "content/Vermessungsverfahren/Grundlage/Elektrooptische Entfernungsmessung.md",
+    "content/Vermessungsverfahren/Höhenübertragung/Trigonometrisches Nivellement.md",
+    "content/Vermessungsverfahren/Höhenübertragung/Geometrisches Nivellement.md",
+    "content/Vermessungsverfahren/Lagemessungen/Othogonal.md",
+    "content/Vermessungsverfahren/Lagemessungen/Fluchten und Verlängern.md",
+    "content/Vermessungsverfahren/Satellitengestützte Messverfahren/GNSS - Schnittpunkt.md",
+    "content/Vermessungsverfahren/Satellitengestützte Messverfahren/GNSS.md",
+    "content/Vermessungsverfahren/Laserscanning.md",
+    "content/Vermessungsverfahren/Photogrammetrie.md",
+    "content/Vermessungsverfahren/Polar.md",
+    "content/Vermessungsverfahren/Trigonometrische Höhenbestimmung.md",
+    "content/Vermessungsverfahren/Polygonzug.md",
     "content/LF-Vermessung/LF2/Maßstabsberechnung.md",
-    "content/LF-Vermessung/LF2/Winkeleinheiten und Winkelfunktionen.md",
+    "content/LF-Vermessung/LF1/Aufbau des Vermessungswesens in Niedersachsen.canvas",
     "public/MediaFiles/IMG_20260415_133930902.jpg",
     "content/MediaFiles/IMG_20260415_133930902.jpg",
     "public/MediaFiles/IMG_20260415_133913959.jpg",
@@ -203,12 +250,8 @@
     "content/MediaFiles/20260415_132541385.jpg",
     "public/MediaFiles/20260415_132533810.jpg",
     "content/MediaFiles/20260415_132533810.jpg",
-    "content/Tags-List.md",
     "content/Grundbuch",
     "content/GIS",
-    "content/Untitled.md",
-    "content/index.md",
-    "content/12.04.2026.md",
     "public/MediaFiles/III._1.4_Polygonpunktber_Formular.pdf",
     "public/MediaFiles/III._1.2_Polygonzug_Aufgabe_1.pdf",
     "public/MediaFiles/Aufgabe1.pdf",
@@ -218,23 +261,8 @@
     "public/Vermessungsverfahren/Polygonzug.html",
     "public/Vermessungsverfahren/Polar.html",
     "public/LF-Vermessung/LF1/Aufbau-des-Vermessungswesens-in-Niedersachsen.canvas",
-    "content/LF-Vermessung/Einführung in die Lernfelder.md",
-    "content/LF-Vermessung/LF1/Vermessungsgeschichte.md",
-    "content/LF-Vermessung/LF1/Rechtsgrundlagen.md",
-    "content/Vermessungsschriften/Fortfuehrungsrisse.md",
-    "content/LF-Vermessung/LF1/Aufbau des Vermessungswesens in Niedersachsen.canvas",
-    "content/LF-Vermessung/LF5/Lernfeld 5 - Referenzpunkte bestimmen.md",
-    "docs/index.md",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas",
-    "content/LF-Vermessung/LF1/Lernfeld 1 - Betriebe der Geoinformationstechnologie vorstellen.md",
-    "docs/configuration.md",
-    "Unbenannt.canvas",
-    "content/Vermessungsverfahren/Laserscanning.md",
-    "content/VTR/1. Vermessungstechnisches Rechnen.md",
-    "content/VTR/Polygonzugberechnung.md",
-    "content/VTR/Transformation.md",
-    "content/Vermessungsverfahren/Trigonometrische Höhenbestimmung.md",
-    "content/LF-Vermessung/LF13/Lernfeld 13 - Bau-, Bauwerks- und Industrievermessungen durchführen.md"
+    "Unbenannt.canvas"
   ]
 }
