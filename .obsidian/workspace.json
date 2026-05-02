@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards/Optik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,11 +211,12 @@
       "obsidian-spaced-repetition:Lernkarten wiederholen": false
     }
   },
-  "active": "0e214e8be7a265cc",
+  "active": "78c3dcabe26d0572",
   "lastOpenFiles": [
-    "content/Vermessungsinstrumente/Nivelliergerät.md",
+    "content/LF-Vermessung/LF2/Maßstabsberechnung.md",
     "content/Abfragen zum Lernen.md",
     "content/Flashcard test.md",
+    "content/Vermessungsinstrumente/Nivelliergerät.md",
     "content/Rechtsgrundlagen/Niedersachsen/NVermG.md",
     "content/Rechtsgrundlagen/Niedersachsen/NÖbVIG.md",
     "content/Rechtsgrundlagen/Niedersachsen/NGDIG.md",
@@ -238,7 +239,6 @@
     "content/Vermessungsverfahren/Polar.md",
     "content/Vermessungsverfahren/Trigonometrische Höhenbestimmung.md",
     "content/Vermessungsverfahren/Polygonzug.md",
-    "content/LF-Vermessung/LF2/Maßstabsberechnung.md",
     "content/LF-Vermessung/LF1/Aufbau des Vermessungswesens in Niedersachsen.canvas",
     "public/MediaFiles/IMG_20260415_133930902.jpg",
     "content/MediaFiles/IMG_20260415_133930902.jpg",
